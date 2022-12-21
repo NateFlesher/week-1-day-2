@@ -1,0 +1,101 @@
+#logo {
+    width: 150px;
+}
+
+body {
+    text-align: center;
+}
+
+hr {
+    margin-top: 260px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+    color: blue;
+    margin: 20px;
+}
+
+#sign-in {
+    border-style: solid;
+    width: 20%;
+    margin: auto;
+    border-width: thin;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border-color: lightgray;
+
+}
+
+#forgot_pw a {
+    color: blue;
+    text-decoration: none;
+}
+
+#help a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+#pw {
+    padding-right: 135px;
+}
+
+#pw-text {
+    padding-right: 95px;
+    padding-left: 40px;
+}
+
+#email {
+    padding-right: 135px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#pw {
+    margin-top: 10px;
+}
+
+#continue {
+    width: 310px;
+    background-color: rgb(247, 197, 72);
+    border-width: thin;
+    margin-block-start: 15px;
+    margin-block-end: 10px;
+    border-color: lightgray;
+    border-radius: 3px;
+
+}
+
+h1 {
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+}
+
+ul {
+    display: block;
+    padding-right: 40px;
+    S
+}
+
+#create-button {
+    width: 350px;
+    height: 28px;
+    border-color: lightgray;
+    background-color: rgb(231, 233, 236)
+}
+
+#question {
+    color: rgb(180, 180, 180);
+    display: block;
+    margin-top: 15px;
+
+}
